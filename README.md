@@ -33,8 +33,11 @@ X -> @silviasetitech
 ## Experience
 
 - 2024.07 - **Present**   Tokyo Institute of Technology, 		Research Assistant
+  - Building ``Swallow``, Japanese LLMs with our enthusiastic lab members!
 - 2024.07 - **Present** 	Cierpa & Co.,			Engineering Intern
+  - Working on research/developing document understanding system! 📔
 - 2024.06 - **Present** 	NII,							Research Assistant
+  - Working on multimodal working group of ``LLM-jp`` 😏
 - 2023.06 - 2024.01 	OMRON SINIC X,		Student Internship
 - 2022.07 - 2024.03 	RIKEN AIP, 				Research Part-time Worker II
 - 2022.08 - 2022.09   NTT Lab.,						Summer Internship
