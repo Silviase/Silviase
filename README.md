@@ -7,8 +7,14 @@ Hi👋 I'm Koki Maeda, currently 1st year of Ph.D course at Institute Science of
 The aim of my research is to accurately evaluate the model’s understanding of the world. My work primarily focuses on developing robust evaluation metrics and methodologies to assess the performance of natural language processing and computer vision models in various real-world scenarios. I aim to contribute to the creation of more reliable and interpretable AI systems.
 
 If you are interested in my work and have opportunities for research internships, visiting student positions, or collaborative research, please feel free to contact me:
+
 E-mail -> koki.maeda[at]nlp[dot]c.titech.ac.jp
+
 X -> @silviasetitech
+
+
+> [!IMPORTANT]
+> Submitted three co-authored papers to ARR October! :)
 
 ## Research Interest
 
