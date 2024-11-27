@@ -14,7 +14,7 @@ X -> @silviasetitech
 
 
 > [!IMPORTANT]
-> Submitted three co-authored papers to ARR October! :)
+> Now working evaluating CoT reasoning ... 😎
 
 ## Research Interest
 
