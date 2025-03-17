@@ -14,7 +14,7 @@ X -> @silviasetitech
 
 
 > [!IMPORTANT]
-> Now working evaluating CoT reasoning ... 😎
+> Now working evaluating visual math reasoning ... 😎
 
 ## Research Interest
 
