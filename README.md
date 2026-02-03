@@ -13,8 +13,8 @@ E-mail -> koki.maeda[at]nlp[dot]c.titech.ac.jp
 X -> @silviasetitech
 
 
-> [!IMPORTANT]
-> Now working evaluating visual math reasoning ... 😎
+> [!INFO]
+> Now evaluating Text-Centric VQA ... 😎
 
 ## Research Interest
 
