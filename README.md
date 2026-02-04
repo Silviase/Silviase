@@ -33,12 +33,14 @@ X -> @silviasetitech
 
 ## Education
 
-- 2024.04 - Present : Ph.D @ Institute Science of Tokyo (Former Name: Tokyo Institute of Technology), Tokyo, Japan
+- 2024.04 - **Present** : Ph.D @ Institute Science of Tokyo (Former Name: Tokyo Institute of Technology), Tokyo, Japan
 - 2022.04 - 2024.03 :	Master @ Tokyo Institute of Technology, Tokyo, Japan
 - 2018.04 - 2022.03 :	Bachelor @ Tokyo Institute of Technology, Tokyo, Japan
 
 ## Experience
 
+- 2026.01 - **Present**   SakanaAI, Applied Research Engineer (Internship)
+  - Work for the defense team with intelligent members.
 - 2024.07 - **Present**   Tokyo Institute of Technology, 		Research Assistant
   - Building ``Swallow``, Japanese LLMs with our enthusiastic lab members!
 - 2024.06 - **Present** 	NII,							Research Assistant
