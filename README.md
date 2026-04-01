@@ -2,9 +2,10 @@
 
 ## whoami 
 
-Hi👋 I'm Koki Maeda, currently 2nd year of Ph.D course at Institute Science of Tokyo (Former Name: Tokyo Institute of Technology). I'm privileged to be advised by Prof Naoaki Okazaki and to have the opportunity to collaborate on research with Shuhei Kurita. 
+Hi 👋 I'm Koki Maeda, currently a 3rd-year Ph.D. student at the Institute of Science, Tokyo (formerly Tokyo Institute of Technology). I'm privileged to be advised by Prof. Naoaki Okazaki. 
 
-The aim of my research is to accurately evaluate the model’s understanding of the world. My work primarily focuses on developing robust evaluation metrics and methodologies to assess the performance of natural language processing and computer vision models in various real-world scenarios. I aim to contribute to the creation of more reliable and interpretable AI systems.
+The aim of my research is to accurately evaluate the model’s understanding of the world. 
+My work primarily focuses on developing robust evaluation metrics and methodologies to assess the performance of natural language processing and computer vision models in various real-world scenarios. I aim to contribute to the creation of more reliable and interpretable AI systems.
 
 If you are interested in my work and have opportunities for research internships, visiting student positions, or collaborative research, please feel free to contact me:
 
@@ -33,7 +34,7 @@ X -> @silviasetitech
 
 ## Education
 
-- 2024.04 - **Present** : Ph.D @ Institute Science of Tokyo (Former Name: Tokyo Institute of Technology), Tokyo, Japan
+- 2024.04 - **Present** : Ph.D @ Institute of Science Tokyo (Former Name: Tokyo Institute of Technology), Tokyo, Japan
 - 2022.04 - 2024.03 :	Master @ Tokyo Institute of Technology, Tokyo, Japan
 - 2018.04 - 2022.03 :	Bachelor @ Tokyo Institute of Technology, Tokyo, Japan
 
